@@ -1,1 +1,1 @@
-# CogniCue - Converting Emotions into Analytics
+# CogniCue - Converting Emotions into Insights
